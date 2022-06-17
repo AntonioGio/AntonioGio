@@ -1,3 +1,5 @@
+<img src="https://github.com/AntonioGio/AntonioGio/blob/main/Antonio%20Giordano.png">
+
 ### Hi there 👋
 
 <!--
