@@ -1,12 +1,12 @@
 <img src="https://github.com/AntonioGio/AntonioGio/blob/main/Antonio%20Giordano.png">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<br/>
+<br/>  
 
-### <div align="center">I'm Antonio, a smart contract developer passionate about creating permissionless, trustless, decentralized applications.</div>  
-  
+### <div align="center">Hi, bonjour, hola 👋 ... I'm Antonio, a smart contract developer passionate about creating permissionless, trustless, decentralized applications.</div>  
+<br/>  
+
+- 🧑‍🎓 I'm an alumnus of the [Chainshot Bootcamp](https://www.chainshot.com/)
 
 - 🔭 I’m currently working on a [DAO Registry](https://github.com/ahsanali17/DAO-Registry.git) intended to produce more transparent, democratic organizations   
   
@@ -20,7 +20,7 @@
 - 🌎 I am Canadian-American, grew up in Montréal Québec, and currently live in Medellín Colombia  
   
 
-- 🔠I speak English, French, and am learning Spanish  
+- 🔠 I speak English, French, and am learning Spanish  
   
 
 <br/>  
@@ -28,12 +28,17 @@
 
 ## My Skill Set  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://banner2.cleanpng.com/20190726/kfh/kisspng-solidity-smart-contract-programming-language-ether-blockchain-development-bearplex-5d3afdfeca75f8.3709799715641471988293.jpg" alt="Solidity" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://trufflesuite.com/assets/logo.png" alt="Truffle" height="50" />
+<img style="margin: 10px" src="https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5f760a499b56c47b8fa74fbb_chainlink-logo.svg" alt="chainlink" height="50" />
+<img style="margin: 10px" src="https://ethereum.github.io/remix-website/assets/imgs/remix_logo_background.svg" alt="remix" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" alt="hardhat" height="50" />    
 </div>  
 
 <br/>  
@@ -71,17 +76,8 @@
 
   
 
-<br/>  
-
-  
-
-<br/>  
-
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **AntonioGio/AntonioGio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
