@@ -1,5 +1,4 @@
-<img src="https://github.com/AntonioGio/AntonioGio/blob/main/Antonio%20Giordano.png">
-<br/>  
+<img src="https://github.com/AntonioGio/AntonioGio/blob/main/Antonio%20Giordano.png"> 
 
 ### <div align="center">Hi, bonjour, hola 👋 ... I'm Antonio, a smart contract developer passionate about creating permissionless, trustless, decentralized applications.</div>  
 <br/>  
