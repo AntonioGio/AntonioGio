@@ -3,7 +3,7 @@
 ### <div align="center">Hi, bonjour, hola 👋 ... I'm Antonio, a smart contract developer passionate about creating permissionless, trustless, decentralized applications.</div>  
 <br/>  
 
-- 🧑‍🎓 I'm an alumnus of the [Chainshot Bootcamp](https://www.chainshot.com/)
+- 🧑‍🎓 I'm a student of the [Chainshot Bootcamp](https://www.chainshot.com/)
 
 - 🔭 I’m currently working on a [DAO Registry](https://github.com/ahsanali17/DAO-Registry.git) intended to produce more transparent, democratic organizations   
   
