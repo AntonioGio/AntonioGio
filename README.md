@@ -14,7 +14,7 @@
 - 👨‍🏫 Previously, I was a school teacher specializing in languages and history  
   
 
-- 🌎 I am Canadian-American, grew up in Montréal Québec, and currently live in Medellín Colombia  
+- 🌎 I am Canadian-American, grew up in Montréal Canada, and currently live in Medellín Colombia  
   
 
 - 🔠 I speak English, French, and am learning Spanish  
@@ -41,7 +41,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect With Me  
 <div align="center">
 <a href="https://twitter.com/@a_f_gio" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
