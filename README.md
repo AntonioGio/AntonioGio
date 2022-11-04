@@ -1,5 +1,7 @@
-<img src="https://iili.io/mGSevj.png">
-
+<img src="https://iili.io/mWFWVR.png">
+<br/>
+<br/>
+<br/>
 
 ### <div align="center">Hi, bonjour, hola 👋 ... I'm Antonio, a front-end developer passionate about building responsive websites in the Web3 space.</div>  
 <br/>  
