@@ -16,7 +16,7 @@
 - 👨‍🏫 Previously, I was a school teacher specializing in languages and history  
   
 
-- 🌎 I am Canadian-American, grew up in Montréal Canada, and currently live in Medellín Colombia  
+- 🌎 I am Canadian-American, grew up in Montréal Canada, and currently live in Florida 
   
 
 - 🔠 I speak English, French, and am learning Spanish  
@@ -30,7 +30,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="50" />
-<img style="margin: 10px" src="https://banner2.cleanpng.com/20190726/kfh/kisspng-solidity-smart-contract-programming-language-ether-blockchain-development-bearplex-5d3afdfeca75f8.3709799715641471988293.jpg" alt="Solidity" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png" alt="Solidity" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
@@ -49,12 +49,12 @@
 <a href="https://twitter.com/@a_f_gio" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/19361443/antonio-giordano" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/antonio-giordano-6324b915a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</div>  
+<a href="https://codepen.com/afgio" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+</div>
   
 
 <br/>  
