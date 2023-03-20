@@ -7,10 +7,7 @@
 - 🧑‍🎓 I'm an alumnus of the [Chainshot Bootcamp](https://www.chainshot.com/), predecessor to [Alchemy University](https://university.alchemy.com/)
 
 
-- 🔭 I’m currently building [Alexandria](https://ethglobal.com/showcase/alexandria-3db0q), an award-winning NFT marketplace for token-guarded content  
-  
-
-- 🌱 At the moment, I'm learning React and Tailwind. I'm also reading [Code](https://www.microsoftpressstore.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)  
+- 🌱 At the moment, I'm Building React and Tailwind. I'm also reading [Code](https://www.microsoftpressstore.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)  
   
 
 - 👨‍🏫 Previously, I was a school teacher specializing in languages and history  
