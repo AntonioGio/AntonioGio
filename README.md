@@ -1,7 +1,7 @@
 <img src="https://iili.io/mWFWVR.png">
 <br/>
 
-### <div align="center">Hi, bonjour, hola 👋 ... I'm Antonio, a front-end developer passionate about building responsive websites in the Web3 space.</div>  
+### <div align="center">Hi, bonjour, hola 👋 ... I'm Antonio, a web developer passionate about building responsive websites.</div>  
 <br/>  
 
 - 🧑‍🎓 I'm an alumnus of the [Chainshot Bootcamp](https://www.chainshot.com/), predecessor to [Alchemy University](https://university.alchemy.com/)
